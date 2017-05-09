@@ -3,7 +3,7 @@ package com.bain.baristamatic;
 import java.util.Scanner;
 
 /**
- * top level class to control BaristaMatic display and functionality
+ * Top level class to control BaristaMatic display and functionality
  */
 public class BaristaMatic {
 
